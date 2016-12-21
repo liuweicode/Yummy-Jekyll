@@ -6,16 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yummy Theme # ex. I m Chuan
-name: Your Name # ex. DONGChuan
-email: my_email_address@lalala.com
-location: My location # ex. Nice, France
-company: MyCompany
-company_url: my_company_website
-github_url: my_github_url # ex. https://github.com/DONGChuan
-description: description_of_your_web_site
+title: I m Wei # ex. I m Chuan
+name: liuwei.co # ex. DONGChuan
+subtitle: 家有儿女初长成
+email: i@liuwei.co
+location: 上海 # ex. Nice, France
+company: 上海凌晋信息技术有限公司
+company_url: http://www.linkim.com.cn
+github_url: https://github.com/liuweicode # ex. https://github.com/DONGChuan
+description: 家有儿女初长成
 favicon: favicon.png # Image must be in assets/images
-repository: github_username/github_username.github.io # ex. DONGChuan/DONGChuan.github.io
+repository: liuweicode/liuweicode.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
@@ -57,23 +58,31 @@ paginate_path: 'page:num'
 navs:
   -
     href: /
-    label: Home
+    label: 主页
+
+  -
+    href: /chenchen
+    label: 琛琛
+
+  -
+    href: /xuanxuan
+    label: 萱萱
+
+  -
+    href: /weddingday
+    label: 小永远
 
   -
     href: /open-source
-    label: Open-Source
-
-  -
-    href: /blog
-    label: Blog
+    label: 开源项目
 
   -
     href: /bookmark
-    label: Bookmark
+    label: 技术
 
   -
     href: /about
-    label: About
+    label: 关于我们
 
 # Sidebar to show popular repo
 side_bar_repo_limit: 5 # Number of repos to show

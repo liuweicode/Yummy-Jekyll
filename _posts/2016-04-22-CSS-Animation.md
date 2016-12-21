@@ -1,8 +1,7 @@
 ---
 layout: post
 title: CSS Animation
-category: CSS
-tags: [css]
+tags: [CSS, xuanxuan]
 ---
 
 Quick note about CSS animation. 
